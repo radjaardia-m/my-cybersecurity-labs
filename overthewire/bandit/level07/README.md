@@ -22,7 +22,7 @@ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 
 ![Bandit Level 6 - 7](sslevel6-7.png)
 
-**Penjelasan :** 2>/dev/null berfungsi untuk membuang semua pesan error "Permission denied" agar output bersih dan hanya menampilkan file yang berhasil ditemukan.
+**Penjelasan :** "2>/dev/null" berfungsi untuk membuang semua pesan error "Permission denied" agar output bersih dan hanya menampilkan file yang berhasil ditemukan.
 
 **Password :** Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
 
