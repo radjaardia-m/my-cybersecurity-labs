@@ -17,7 +17,7 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 grep "millionth" data.txt
 ```
 
-![Bandit Level 7 - 8](sslevel7-8)
+![Bandit Level 7 - 8](sslevel7-8,png)
 
 
 **Penjelasan :** command "grep" berfungsi untuk mencari suatu kata atau string dalam sebuah file atau data
